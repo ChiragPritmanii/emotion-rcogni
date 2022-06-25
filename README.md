@@ -2,7 +2,11 @@
 
 Deployed Web App:  https://emotion-recogni.herokuapp.com/
 
-Directory Structure (Static):
+
+
+Instructions to run the emotion recognition app on local server: 
+
+Directory Structure:
 - env: Virtual Environment containing all the dependencies
 - templates: Folder containing HTML files
 - static: Folder used to save initial image, cropped image and final image
@@ -11,9 +15,6 @@ Directory Structure (Static):
 - fer_model.hdf5: saved model architecture and weights (best model achieved from FER_CNN_Model.ipynb)
 - requirements.txt: List of dependencies to be installed
 - haarcascade_frontalface_default.xml: File to detect faces
-
-
-Instructions to run the emotion recognition app on local server: 
 
 1. Open command line and type the following commands to create and activate virtual environment: 
   - virtualenv env
