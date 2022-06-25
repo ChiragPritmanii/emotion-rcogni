@@ -2,7 +2,7 @@
 
 Deployed Web App:  https://emotion-recogni.herokuapp.com/
 
-
+Detects the most dominant emotion from 'Angry', 'Disgust', 'Fear', 'Happy', 'Neutral','Sad', 'Surprise'. 
 
 Instructions to run the emotion recognition app on local server: 
 
